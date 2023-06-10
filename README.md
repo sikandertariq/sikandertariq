@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**sikandertariq/sikandertariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring .NET/Game developer with a passion for creating immersive experiences. I'm currently seeking opportunities to grow and contribute to exciting projects in the tech industry.
 
-Here are some ideas to get you started:
+## Technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Python
+- .NET
+- Unity
+- JavaScript
+- Git
+
+Feel free to explore my repositories and projects to get a sense of my coding style and the work I've done so far.
+
+## Goals for 2023:
+
+In 2023, I have set the following goals for myself:
+
+- Build new projects: I'm always eager to expand my skill set and put my knowledge into practice. Throughout the year, I plan to work on various projects to sharpen my development skills and explore new technologies.
+
+- Practice as much of HackerRank as possible: I believe that continuous learning and practice are essential in the tech industry. HackerRank provides a platform for honing problem-solving abilities and improving coding skills. I intend to dedicate time regularly to solve challenges and improve my problem-solving abilities.
+
+If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out. I'm always excited to connect with like-minded individuals and explore new opportunities!
+
+Let's code and create amazing things together! 🚀
