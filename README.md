@@ -1,14 +1,15 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm an aspiring .NET/Game developer with a passion for creating immersive experiences. I'm currently seeking opportunities to grow and contribute to exciting projects in the tech industry.
+Welcome to my GitHub profile! I'm an aspiring Software Engineer with a passion for creating immersive experiences. I'm currently seeking opportunities to grow and contribute to exciting projects in the tech industry.
 
-## Technologies I work with:
+## Technologies & Languages I work with:
 
 - C#
 - Python
 - .NET
 - Unity
-- JavaScript
+- JavaScript/TypeScript
+- React
 - Git
 
 Feel free to explore my repositories and projects to get a sense of my coding style and the work I've done so far.
