@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm an aspiring .NET/Game developer with a passion
 
 Feel free to explore my repositories and projects to get a sense of my coding style and the work I've done so far.
 
-## Goals for 2023:
+## Goals for 2024:
 
-In 2023, I have set the following goals for myself:
+In 2024, I have set the following goals for myself:
 
 - Build new projects: I'm always eager to expand my skill set and put my knowledge into practice. Throughout the year, I plan to work on various projects to sharpen my development skills and explore new technologies.
 
