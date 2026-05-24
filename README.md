@@ -1,27 +1,17 @@
-# Hi there! 👋
+# 💫 About Me:
+Software Engineer with a strong background in building efficient, scalable solutions and optimizing systems. Currently focused on learning scalable architecture and DevOps practices while also exploring opportunities to contribute to open-source projects. Always driven to improve and evolve with new technologies, tackling challenges, and delivering impactful solutions. Ready to collaborate and innovate in the ever-changing tech world.
 
-Welcome to my GitHub profile! I'm an aspiring Software Engineer with a passion for creating immersive experiences. I'm currently seeking opportunities to grow and contribute to exciting projects in the tech industry.
+---
 
-## Technologies & Languages I work with:
+# 📚 Currently Learning:
+- **System Architecture:** Designing scalable, distributed systems with a focus on high availability, fault tolerance, and performance optimization.
+- **Cloud Platforms:** Gaining expertise in cloud-native solutions, including AWS, GCP, and Azure, to build highly scalable and cost-efficient infrastructure.
+- **DevOps Practices:** Leaning CI/CD pipelines, infrastructure as code (IaC), and automation for seamless deployment processes.
+- **Microservices Architecture:** Designing loosely coupled services to enhance scalability, fault tolerance, and ease of maintenance.
+  
+---
 
-- C#
-- Python
-- .NET
-- Unity
-- JavaScript/TypeScript
-- React
-- Git
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%234FC1FF.svg?style=for-the-badge&logo=react-query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-%233B7E8C.svg?style=for-the-badge&logo=python&logoColor=white) ![Fiber](https://img.shields.io/badge/fiber-%2306B8A4.svg?style=for-the-badge&logo=fiber&logoColor=white) ![Gin](https://img.shields.io/badge/gin-%2300B4B5.svg?style=for-the-badge&logo=gin&logoColor=white) ![Mux](https://img.shields.io/badge/mux-%23000000.svg?style=for-the-badge&logo=go&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-%23002468.svg?style=for-the-badge&logo=typeorm&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%233C7B6B.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Sanity](https://img.shields.io/badge/sanity-%23F7F7F7.svg?style=for-the-badge&logo=sanity&logoColor=black)
 
-Feel free to explore my repositories and projects to get a sense of my coding style and the work I've done so far.
-
-## Goals for 2024:
-
-In 2024, I have set the following goals for myself:
-
-- Build new projects: I'm always eager to expand my skill set and put my knowledge into practice. Throughout the year, I plan to work on various projects to sharpen my development skills and explore new technologies.
-
-- Practice as much of HackerRank as possible: I believe that continuous learning and practice are essential in the tech industry. HackerRank provides a platform for honing problem-solving abilities and improving coding skills. I intend to dedicate time regularly to solve challenges and improve my problem-solving abilities.
-
-If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out. I'm always excited to connect with like-minded individuals and explore new opportunities!
-
-Let's code and create amazing things together! 🚀
+---
