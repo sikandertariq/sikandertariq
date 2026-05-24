@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software Engineer with a strong background in building efficient, scalable solutions and optimizing systems. Currently focused on learning scalable architecture and DevOps practices while also exploring opportunities to contribute to open-source projects. Always driven to improve and evolve with new technologies, tackling challenges, and delivering impactful solutions. Ready to collaborate and innovate in the ever-changing tech world.
+Software engineer with over 3 years of experience leading and developing diverse engineering teams (onsite, remote, and offshore). I’ve focused on building scalable product architecture, streamlining agile processes (Scrum/Kanban), and managing product suite.
+
+
 
 ---
 
