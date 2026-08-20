@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer with over 3 years of experience leading and developing diverse engineering teams (onsite, remote, and offshore). I’ve focused on building scalable product architecture, streamlining agile processes (Scrum/Kanban), and managing product suite.
+Software engineer with over 7+ years of experience leading and developing diverse engineering teams (onsite, remote, and offshore). I’ve focused on building scalable product architecture, streamlining agile processes (Scrum/Kanban), and managing product suite.
 
 
 
